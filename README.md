@@ -1,4 +1,4 @@
-# Meta learning in Pytorch
+# Meta learning in PyTorch
 
 This repository provides minimial documented implementations of basic meta learning algorithms in PyTorch.
 
