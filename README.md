@@ -1,6 +1,6 @@
 # Meta learning in PyTorch
 
-This repository provides minimial documented implementations of basic meta learning algorithms in PyTorch.
+This repository provides minimial implementations of basic meta learning algorithms in PyTorch with a step-by-step documentation.
 
 They are based on the recent [functional API](https://docs.pytorch.org/docs/stable/func.api.html) of PyTorch, using transforms like `vmap` and `grad`. 
 
@@ -15,5 +15,4 @@ Both examples solve the toy regression problem with sinusoidal signals of differ
 
 ## Related Repositories
 
-I provide very similar JAX-based implementations of the same meta learning algorithms in [this repo](https://github.com/forgi86/jax-tutorial). 
-
+I provide very similar JAX-based implementations of the same meta learning algorithms in [this repo](https://github.com/forgi86/jax-tutorial).
